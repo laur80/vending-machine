@@ -1,0 +1,16 @@
+{
+  "main.css": "/vending-machine/static/css/main.a6cb60e8.chunk.css",
+  "main.js": "/vending-machine/static/js/main.df5ae8f2.chunk.js",
+  "main.js.map": "/vending-machine/static/js/main.df5ae8f2.chunk.js.map",
+  "runtime~main.js": "/vending-machine/static/js/runtime~main.6970cc35.js",
+  "runtime~main.js.map": "/vending-machine/static/js/runtime~main.6970cc35.js.map",
+  "static/js/2.59c42e72.chunk.js": "/vending-machine/static/js/2.59c42e72.chunk.js",
+  "static/js/2.59c42e72.chunk.js.map": "/vending-machine/static/js/2.59c42e72.chunk.js.map",
+  "index.html": "/vending-machine/index.html",
+  "precache-manifest.32e57cbae48eaa4108022068a4b98924.js": "/vending-machine/precache-manifest.32e57cbae48eaa4108022068a4b98924.js",
+  "service-worker.js": "/vending-machine/service-worker.js",
+  "static/css/main.a6cb60e8.chunk.css.map": "/vending-machine/static/css/main.a6cb60e8.chunk.css.map",
+  "static/media/Chips.png": "/vending-machine/static/media/Chips.0e21446e.png",
+  "static/media/Soda.png": "/vending-machine/static/media/Soda.7746d7d5.png",
+  "static/media/VendingMachine.png": "/vending-machine/static/media/VendingMachine.369bea35.png"
+}
